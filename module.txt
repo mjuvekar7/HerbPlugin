@@ -1,0 +1,9 @@
+{
+    "id" : "HerbPlugin",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Mandar Juvekar",
+    "displayName" : "HerbPlugin",
+    "description" : "A world generation plugin that spawns random herbs.",
+    "dependencies" : [{"id": "Alchemy", "minVersion": "0.2.0"}],
+    "serverSideOnly" : false
+}
